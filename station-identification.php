@@ -3,7 +3,7 @@
 Plugin Name: Station Identification
 Author: Phil Nelson
 Author URI: http://extrafuture.com/
-Version: 1.0
+Version: 2.0
 Description: Adds a notice to the bottom of feed items, indicating the author's copyright and pointing to the original URL of the post. 
 Plugin URI: http://extrafuture.com/projects/station-identification
 

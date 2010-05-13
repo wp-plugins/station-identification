@@ -25,9 +25,13 @@ Installing Station Identification is a breeze.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. That's all!
 
+== Screenshots ==
+
+1. Station Identification's options panel
+
 == Changelog ==
 
-=== 2.0 ===
+= 2.0 =
 
 * Totally new settings panel
 * Live preview of Station Ident message

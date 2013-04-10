@@ -1,10 +1,10 @@
 === Plugin Name ===
 Contributors: philnelson
-Version: 2.0
+Version: 2.0.1
 Plugin URI: http://extrafuture.com/projects/station-identification
 Tags: copyright, feeds, piracy, feed scraping
 Requires at least: 2.5
-Tested up to: 2.9.2
+Tested up to: 3.5.1
 Stable tag: trunk
 Author: Phil Nelson
 Author URI: http://extrafuture.com
@@ -30,6 +30,10 @@ Installing Station Identification is a breeze.
 1. Station Identification's options panel
 
 == Changelog ==
+
+= 2.0.1 =
+
+* Fixed link to settings page
 
 = 2.0 =
 
